@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm @ErgodicEntropy, an inquisitive mind navigating the vast landscape of technology and knowledge. Welcome to my space of perpetual learning and exploration! 🚀
+I'm @ErgodicEntropy, an enthusiastic autodidact with an insatiable passion for continuous learning. 🚀
 
 🌱 Currently Learning
 
