@@ -5,7 +5,7 @@ I'm @ErgodicEntropy, an enthusiastic autodidact with an insatiable passion for c
 
 I'm on a continuous learning journey, expanding my expertise in various domains. Currently, my focus extends to:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,babel,nodejs,react,django,flask,docker,powershell,bash,linux,md,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,babel,nodejs,react,docker,bash,linux,md,git,latex)](https://skillicons.dev)
 
 📚 Lifelong Learner
 I'm passionate about learning for its own sake, delving into a myriad of subjects such as:
