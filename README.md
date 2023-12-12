@@ -17,7 +17,7 @@ Evolutionary-Behavioral Biology, Origins of Life, Anthropology, Cultural Theory,
 Feel free to reach out through the following channels:
 
 📧 Email: ayoubgameranger@gmail.com
-🐦 Quora: [@YourTwitterHandle](https://www.quora.com/profile/Ayoub-Sbai-5)
+🐦 Quora: [@AyoubSbai](https://www.quora.com/profile/Ayoub-Sbai-5)
 
 
 🚀 Let's Connect!
