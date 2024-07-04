@@ -7,17 +7,13 @@ I'm on a continuous learning journey, expanding my expertise in various domains.
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,babel,nodejs,react,docker,bash,linux,md,git,latex)](https://skillicons.dev)
 
-📚 Lifelong Learner
-I'm passionate about learning for its own sake, delving into a myriad of subjects such as:
-Evolutionary-Behavioral Biology, Origins of Life, Anthropology, Cultural Theory, Random Graph Theory, Ramsey Theory, Percolation Theory, Information Theory, Statistical Mechanics, Abstract Algebra, Computability Theory, Algorithmic Information Theory, Computation Theory, and Analytical Philosophy.
-
 
 
 📫 Reach Me
 Feel free to reach out through the following channels:
 
-📧 Email: ayoubgameranger@gmail.com
-🐦 Quora: [@AyoubSbai](https://www.quora.com/profile/Ayoub-Sbai-5)
+📧 Email: ayoubgameranger@gmail.com, ayoub.sbai@centrale-casablanca.ma
+🐦 LinkedIn: [@AyoubSbai](https://www.linkedin.com/in/aysb09/)
 
 
 🚀 Let's Connect!
